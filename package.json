@@ -14,5 +14,9 @@
     "npm"
   ],
   "author": "brycewjensen@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "uniq": "^1.0.1"
+  }
 }
