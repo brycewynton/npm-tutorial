@@ -1,0 +1,18 @@
+{
+  "name": "npm-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial to learn javascript with npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-tutorial"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "brycewjensen@gmail.com",
+  "license": "ISC"
+}
